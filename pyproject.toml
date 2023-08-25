@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "hiddenmarkovmodel"
+name = "biosignal-processing"
 version = "0.1.0"
 description = ""
 authors = ["fukui yuto"]
